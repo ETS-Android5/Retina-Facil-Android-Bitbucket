@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#24b3ae</color>
+    <color name="colorPrimaryTransparet">#4A24B3AE</color>
+    <color name="colorPrimaryDark">#068A85</color>
+    <color name="colorPrimaryLight">#53BAB6</color>
+    <color name="colorAccent">#ff8e33</color>
+    <color name="colorRight">#8FE93A</color>
+    <color name="colorRightDark">#66a182</color>
+    <color name="colorWrong">#e71d36</color>
+    <color name="colorWrongDark">#74121d</color>
+    <color name="colorButton">#202121</color>
+    <color name="colorAsk">#eaebed</color>
+    <color name="colorText">#f4f4f9</color>
+    <color name="colorOptiona">#ff9341</color>
+    <color name="colorOptionb">#FFA141</color>
+    <color name="colorOptionc">#FFA942</color>
+    <color name="colorOptiond">#FFB741</color>
+    <color name="colorTextDark">#212121</color>
+    <color name="colorFundo">#f4f4f9</color>
+    <color name="colorBorder">#CCCCCC</color>
+    <color name="colorFundoDark">#e4e4ec</color>
+    <color name="colorDisable">#808080</color>
+    <color name="rose">#ED008A</color>
+    <color name="pastel_magenta">#EF9DC5</color>
+    <color name="dark_green">#244637</color>
+    <color name="dirty_green">#456015</color>
+    <color name="teal">#0B5A67</color>
+    <color name="dark_blue">#383281</color>
+    <color name="violet">#9400D3</color>
+    <color name="indigo">#4B0082</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FF7F00</color>
+    <color name="red">#FF0000</color>
+    <color name="card1_bg">#f78507</color>
+    <color name="card2_bg">#244637</color>
+    <color name="card3_bg">#c056d9</color>
+    <color name="card4_bg">#967754</color>
+    <color name="card5_bg">#ef075c</color>
+    <color name="card6_bg">#22adf5</color>
+    <color name="card7_bg">#5cee36</color>
+
+    <color name="corPrimaria">#B6263D</color>
+    <color name="corPrimariaEscura">#A01626</color>
+    <color name="corBotao">#A01626</color>
+    <color name="corBordaBotao">#FF7F33</color>
+
+</resources>

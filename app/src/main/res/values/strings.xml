@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">RetinaFacil</string>
+
+    <string name="login">LOGIN</string>
+    <string name="password">Senha</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name = "confirmPassword">Confirmação de Senha</string>
+    <string name="auth_no_internet_connection">Sem conexão de internet</string>
+    <string name="auth_failed">Falha ao cadastrar</string>
+    <string name="auth_sucess">Login efetuado com sucesso</string>
+    <string name="menu1">Informações</string>
+    <string name="menu2">Captura Imagem</string>
+    <string name="menu3">Fundo de Olho Normal</string>
+    <string name="menu4">Retinopatia Diabética</string>
+    <string name="menu5">Testes</string>
+    <string name="menu6">Conceitos Gerais</string>
+
+    <string name="retinopatiaproliferativa">Retinopatia Diabética Proliferativa(RDP)\n   &#9702;Baixo risco\n   &#9702;Alto Risco\n   &#9702;Doença ocular diabética avançada</string>
+    <string name="retinopatianaoproliferativa">Retinopatia Diabética não Proliferativa(RDNP)\n   &#9702;Leve\n   &#9702;Moderada\n  &#9702;Grave</string>
+
+    <string name="info1">Esse aplicativo disponibiliza imagens e informações didáticas sobre o fundo de olho e sinais da retinopatia diabética, que podem ser utilizadas para o ensino na graduação médica e para atualização de médicos generalistas ou oftalmologistas</string>
+    <string name="info2">As imagens são ferramentas fundamentais no exercício da oftalmologia e da telemedicina e o aplicativo torna a informação prontamente acessível.</string>
+    <string name="info3">Esperamos colaborar para a educação médica e facilitar o reconhecimento da retinopatia diabética e a tormada de condutas, contribuindo para a preservação da visão dos diabéticos.</string>
+
+    <string name="epidemiologia">A retinopatia diabética (RD) é uma das maiores complicações do Diabetes Mellitus (DM) e a principal causa de cegueira legal em pessoas na idade produtiva (20 a 74 anos). Afeta  24 a 39% dos pacientes diabéticos.\n\n
+        Principais fatores de risco:\n\n
+           Duração do diabetes –  principal fator de prevalência - após 20 anos de doença, a RD está presente em 90% dos DM 1 e em 60% dos DM 2.\n\n
+           Pobre controle glicêmico- 2º fator mais importante\n\n
+           Tipo de DM – pacientes DM1 apresentam RD com maior frequência e  as formas mais graves\n\n
+           Gravidez- promove a progressão da RD\n\n
+           HAS - aumenta a prevalência e a progressão da RD\n\n
+           Doença renal – aumenta a prevalência e a gravidade da RD e do edema macular\n\n
+           Dislipidemia- maior prevalência de exsudatos duros\n\n
+           Obesidade e tabagismo</string>
+
+    <string name = "mecanismos">Dano celular- vários mecanismos ( acúmulo de sorbitol, stress oxidativo, produtos da glicação, ativação da proteinoquinase C)\n\n
+Capilaropatia - perda de pericitos, espessamento da membrana basal, proliferação de células endoteliais dos capilares. A disfunção dos capilares se manifesta com vazamentos e oclusão.\n\n
+Neovascularização-  a oclusão capilar leva à  hipóxia retiniana, que estimula a produção de fatores angiogênicos (VEGF), ocasionando a formação de neovasos, na tentativa de revascularizar a retina.</string>
+
+    <string name="patogenese">
+        A RD é uma das alterações microcirculatórias  do Diabetes mellitus e deriva de 03 fatores principais\n\n
+    Lesões da parede vascular\n
+    Alterações no fluxo sanguÍneo\n
+    Alterações plaquetárias\n\n
+
+A combinação desses 03 fatores principais  origina  as lesões clínicas da RD:\n\n
+    </string>
+
+    <string name="classificacao1">As alterações retinianas no diabetes são progressivas e divididas em estágios, do mais leve ao mais grave:</string>
+
+    <string name="rdnpesquema"> - Mais de 20 hemorragias intrarretinianas  em cada um dos 4 quadrantes ou\n\n
+ - Ensalsichamento venoso em 2 ou mais quadrantes ou\n\n
+ - IRMA proeminente em 1 quadrante ou mais </string>
+
+    <string name="legenda">IRMA = alterações microvasculares intrarretinianas\n
+        RD =retinopatia diabética\n
+        RDP= retinopatia diabética proliferativa\n
+        RDNP= retinopatia diabética não proliferativa\n\n
+        O edema macular , os exsudatos duros e  as manchas algodonosas  podem ocorrer em qualquer fase da RD e não fazem parte da classificação</string>
+
+    <string name="rdpbaixo">Neovasos de disco óptico (NVD) = ou menor que  1/4 do diâmetro de disco (DD) ou neovasos de retina ( NVE) com área menor que  1/ 2 do DD</string>
+
+    <string name="rdpalto">Neovasos de disco óptico (NVD) de 1/ 4 a 1/3 DD ou neovasos de retina (NVE) = 1/2 DD ou critérios de baixo risco associados a pequena hemorragia vítrea ou subhialoideia</string>
+
+    <string name="rdpocular">Qualquer dos sinais:\n
+-Hemorragia vítrea ou subhialoideia persistenten\n
+-Descolamento tracional de retina\n
+-Neovasos de íris</string>
+
+    <string name="edema">O Edema macular diabético é definido como  espessamento da retina\n\n
+
+Exsudatos duros são sinais  de edema prévio ou atual\n\n
+
+O edema macular pode ocorrer em qualquer estágio da retinopatia diabética
+Não é utilizado na classificação  da  retinopatia diabética</string>
+    <string name="orientacao">A Fundoscopia para rastreamento da RD deve ser realizada anualmente e de acordo com o estágio de RD encontrado.\n\n
+É importante o rastreamento concomitante das demais complicações microvasculares como a doença renal diabética e a neuropatia diabética\n\n
+        O médico generalista deve realizar a fundoscopia  e encaminhar o paciente ao oftalmologista sempre que observar alterações no fundo de olho\n\n
+A RDNP deve ser acompanhada com controle clínico rigoroso da glicemia ,HAS e dislipidemia\n
+- RDNP leve -  exame anual\n
+- RDNP moderada – exame semestral\n
+- RDNP grave-  exame trimestral\n
+- edema macular – exame mensal ou trimestral\n
+A RDP pode ser tratada com fotocoagulação à laser da retina e com injeções intravítreas  de agentes antiangiogênicos - inibidores do VEGF. O acompanhamento deve ser trimestral\n\n
+Em casos de hemorragia vítrea persistente e/ou descolamento tracional de retina, o tratamento deve ser imediato com agentes antiangiogênicos- inibidores do VEGF e vitrectomia via pars plana \n\n
+O edema macular pode ser tratado com fotocoagulação à laser ou agentes antiangiogênicos - inibidores do VEGF\n\n
+O risco de perda visual grave é menor que 5% se o tratamento for realizado em tempo adequado</string>
+
+
+</resources>

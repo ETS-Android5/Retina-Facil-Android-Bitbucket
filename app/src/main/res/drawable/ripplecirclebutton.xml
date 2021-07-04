@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The drawables used here can be solid colors, gradients, shapes, images, etc. -->
+    <item android:state_pressed="false">
+        <shape android:shape="oval">
+            <solid android:color="#0024B3AE"/>
+            <size android:height="48dp" android:width="48dp"></size>
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="#56F4F4F9"></solid>
+            <size android:height="48dp" android:width="48dp"></size>
+        </shape>
+    </item>
+</selector>
+
