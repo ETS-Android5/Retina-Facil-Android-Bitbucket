@@ -5,7 +5,7 @@
     <string name="password">Senha</string>
     <string name="cancel">Cancelar</string>
     <string name="cadastrar">Cadastrar</string>
-    <string name = "confirmPassword">Confirmação de Senha</string>
+    <string name="confirmPassword">Confirmação de Senha</string>
     <string name="auth_no_internet_connection">Sem conexão de internet</string>
     <string name="auth_failed">Falha ao cadastrar</string>
     <string name="auth_sucess">Login efetuado com sucesso</string>
@@ -15,7 +15,7 @@
     <string name="menu4">Retinopatia Diabética</string>
     <string name="menu5">Testes</string>
     <string name="menu6">Conceitos Gerais</string>
-
+    <string name="pacientes">Pacientes</string>
     <string name="retinopatiaproliferativa">Retinopatia Diabética Proliferativa(RDP)\n   &#9702;Baixo risco\n   &#9702;Alto Risco\n   &#9702;Doença ocular diabética avançada</string>
     <string name="retinopatianaoproliferativa">Retinopatia Diabética não Proliferativa(RDNP)\n   &#9702;Leve\n   &#9702;Moderada\n  &#9702;Grave</string>
 
@@ -23,7 +23,7 @@
     <string name="info2">As imagens são ferramentas fundamentais no exercício da oftalmologia e da telemedicina e o aplicativo torna a informação prontamente acessível.</string>
     <string name="info3">Esperamos colaborar para a educação médica e facilitar o reconhecimento da retinopatia diabética e a tormada de condutas, contribuindo para a preservação da visão dos diabéticos.</string>
 
-    <string name="epidemiologia">A retinopatia diabética (RD) é uma das maiores complicações do Diabetes Mellitus (DM) e a principal causa de cegueira legal em pessoas na idade produtiva (20 a 74 anos). Afeta  24 a 39% dos pacientes diabéticos.\n\n
+    <string name="epidemiologia" formatted="false">A retinopatia diabética (RD) é uma das maiores complicações do Diabetes Mellitus (DM) e a principal causa de cegueira legal em pessoas na idade produtiva (20 a 74 anos). Afeta  24 a 39% dos pacientes diabéticos.\n\n
         Principais fatores de risco:\n\n
            Duração do diabetes –  principal fator de prevalência - após 20 anos de doença, a RD está presente em 90% dos DM 1 e em 60% dos DM 2.\n\n
            Pobre controle glicêmico- 2º fator mais importante\n\n
@@ -34,7 +34,7 @@
            Dislipidemia- maior prevalência de exsudatos duros\n\n
            Obesidade e tabagismo</string>
 
-    <string name = "mecanismos">Dano celular- vários mecanismos ( acúmulo de sorbitol, stress oxidativo, produtos da glicação, ativação da proteinoquinase C)\n\n
+    <string name="mecanismos">Dano celular- vários mecanismos ( acúmulo de sorbitol, stress oxidativo, produtos da glicação, ativação da proteinoquinase C)\n\n
 Capilaropatia - perda de pericitos, espessamento da membrana basal, proliferação de células endoteliais dos capilares. A disfunção dos capilares se manifesta com vazamentos e oclusão.\n\n
 Neovascularização-  a oclusão capilar leva à  hipóxia retiniana, que estimula a produção de fatores angiogênicos (VEGF), ocasionando a formação de neovasos, na tentativa de revascularizar a retina.</string>
 
@@ -86,6 +86,12 @@ A RDP pode ser tratada com fotocoagulação à laser da retina e com injeções 
 Em casos de hemorragia vítrea persistente e/ou descolamento tracional de retina, o tratamento deve ser imediato com agentes antiangiogênicos- inibidores do VEGF e vitrectomia via pars plana \n\n
 O edema macular pode ser tratado com fotocoagulação à laser ou agentes antiangiogênicos - inibidores do VEGF\n\n
 O risco de perda visual grave é menor que 5% se o tratamento for realizado em tempo adequado</string>
+    <string name="salvar">Salvar</string>
+    <string name="patientname">PatientName</string>
+    <string name="galeria">Galeria</string>
+    <string name="camera">Câmera</string>
+    <string name="cameraonline">CameraOnline</string>
+    <string name="camerabutton">CameraButton</string>
 
 
 </resources>

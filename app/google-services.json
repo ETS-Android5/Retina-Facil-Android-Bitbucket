@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:995265618897:android:c10cbd080e1f2e74",
         "android_client_info": {
-          "package_name": "com.unichristus.lit.retinafacil"
+          "package_name": "com.example.lit.retinafacil"
         }
       },
       "oauth_client": [
@@ -25,15 +25,56 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995265618897-usc75i3ecadcde9s464ce4qknu808huu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995265618897-cufem7qv0b8d5jpemjdk0kn5taucmluo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dawdwad"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995265618897:android:75088c59f84038795c76f0",
+        "android_client_info": {
+          "package_name": "com.unichristus.lit.retinafacil2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995265618897-usc75i3ecadcde9s464ce4qknu808huu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxok9V_DBEOIkNWXop1Q4ZWWisDPMOAQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995265618897-usc75i3ecadcde9s464ce4qknu808huu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995265618897-cufem7qv0b8d5jpemjdk0kn5taucmluo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dawdwad"
+              }
+            }
+          ]
         }
       }
     }

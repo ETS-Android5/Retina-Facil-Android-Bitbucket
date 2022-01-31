@@ -1,0 +1,3 @@
+keytool -importkeystore -srckeystore F:\Git\Retina-Facil-Android-Bitbucket\keyRetina.jks -destkeystore F:\Git\Retina-Facil-Android-Bitbucket\keyRetina.jks -deststoretype pkcs12
+
+keyretina

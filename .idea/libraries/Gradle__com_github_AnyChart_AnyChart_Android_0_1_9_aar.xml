@@ -3,8 +3,13 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AnyChart-Android-0.1.9.aar/d955ce3820a39f59dcd932052e259a57/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AnyChart-Android-0.1.9.aar/d955ce3820a39f59dcd932052e259a57/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3394553a261c6e2a945c423a1bcf00e/jetified-AnyChart-Android-0.1.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3394553a261c6e2a945c423a1bcf00e/jetified-AnyChart-Android-0.1.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3394553a261c6e2a945c423a1bcf00e/jetified-AnyChart-Android-0.1.9/AndroidManifest.xml" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnyChart/AnyChart-Android/0.1.9/906139c77660eea4f8924b4739a015939276737f/AnyChart-Android-0.1.9-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.AnyChart/AnyChart-Android/0.1.9/3785e2f2072c6a5a88ef96a12ffc5074d1a1c276/AnyChart-Android-0.1.9-sources.jar!/" />
     </SOURCES>

@@ -3,8 +3,13 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FitChart-1.0.aar/e9d20c6b0747d418a1cf4bd9ee55da21/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/FitChart-1.0.aar/e9d20c6b0747d418a1cf4bd9ee55da21/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4799e7f3b7589964e631ee73bfb20ad8/jetified-FitChart-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4799e7f3b7589964e631ee73bfb20ad8/jetified-FitChart-1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4799e7f3b7589964e631ee73bfb20ad8/jetified-FitChart-1.0/res" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.txusballesteros/FitChart/1.0/16d5768cca5868469305238b5341fcbfeecce63b/FitChart-1.0-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.txusballesteros/FitChart/1.0/acec98d60cb15ad83f294b333d71cb61d93806c6/FitChart-1.0-sources.jar!/" />
     </SOURCES>
